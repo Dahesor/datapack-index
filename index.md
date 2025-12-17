@@ -27,7 +27,7 @@ features:
     title: 系列教程
     details: 从零基础到稍微进阶的各种教程
     linkText: 零基础新手戳这里
-    link: /index/参考
+    link: /index/如何开始
   - icon:
       src: /icons/totem_of_recovery.png
     title: 工具箱
